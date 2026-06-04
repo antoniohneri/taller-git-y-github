@@ -1,4 +1,0 @@
-\# Mi primer repositorio
-
-
-
